@@ -4,16 +4,16 @@
 
 Please consider starring the project to show your ❤️ and support.
 
-[![NPM version](https://badgen.net/npm/v/vuedown-loader?icon=npm)](https://npmjs.com/package/vuedown-loader)
-[![NPM download](https://badgen.net/npm/dm/vuedown-loader?icon=npm)](https://npmjs.com/package/vuedown-loader)
+[![NPM version](https://badgen.net/npm/v/@evillt/vuedown-loader?icon=npm)](https://npmjs.com/package/vuedown-loader)
+[![NPM download](https://badgen.net/npm/dm/@evillt/vuedown-loader?icon=npm)](https://npmjs.com/package/vuedown-loader)
 [![CircleCI](https://badgen.net/circleci/github/evillt/vuedown-loader?icon=circleci)](https://circleci.com/gh/evillt/vuedown-loader/tree/master)
-[![License](https://badgen.net/npm/license/vuedown-loader)](./LICENSE)
+[![License](https://badgen.net/npm/license/@evillt/vuedown-loader)](./LICENSE)
 [![donate](https://badgen.net/badge/support%20me/donate/f2a)](https://donate.evila.me)
 
 ## Install
 
 ```console
-yarn add vuedown vuedown-loader --dev
+yarn add vuedown @evillt/vuedown-loader --dev
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ module.exports = {
             loader: 'vue-loader'
           },
           {
-            loader: 'vuedown-loader'
+            loader: '@evillt/vuedown-loader'
           }
         ]
       }
