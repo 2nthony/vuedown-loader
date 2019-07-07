@@ -3,6 +3,9 @@
   "description": "Webpack loader for vuedown",
   "version": "1.0.0",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "evillt/vuedown-loader"
